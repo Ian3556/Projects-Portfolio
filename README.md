@@ -21,7 +21,7 @@ A full-stack fashion E-Commerce webstie featuring product listings, admin dashbo
 - Responsive UI
 
 **Tech Stack :**
-- Frontend : HTML5. CSS3, JavaScript
+- Frontend : React, TypeScript, JavaScript, Node.js
 - Backend  : Firebase (Auth, Firestore)
 - Hosting  : Vercel
 
@@ -33,3 +33,14 @@ A full-stack fashion E-Commerce webstie featuring product listings, admin dashbo
 
 **For More Details :**
 [YEENY README](yeeny-fashion/README.md)
+
+### Personal Dashboard
+**Description :**
+On Progress
+
+**Tech Stack :**
+- Frontend :  React, TypeScript, Next.js, Tailwind
+- Backend : Next.js API Routes
+- Databse : PostgreSQL
+- ORM : Prisma
+- Auth : Auth.js
