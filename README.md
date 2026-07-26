@@ -34,6 +34,30 @@ A full-stack fashion E-Commerce webstie featuring product listings, admin dashbo
 **For More Details :**
 [YEENY README](yeeny-fashion/README.md)
 
+### SkillMap – Career Intelligence Platform
+
+**Description:**
+SkillMap is a career intelligence platform that helps students, graduates, and working professionals explore suitable career pathways based on their education, skills, interests, and work preferences. It provides explainable career recommendations, skill-gap analysis, learning roadmaps, job opportunities, and career progression insights.
+
+**Key Features:**
+
+Career compatibility scoring and recommendations
+Skill-gap analysis with personalised improvement plans
+Education and career pathway exploration
+Internship and job opportunity matching
+Separate Candidate, Employer, and University workspaces
+Responsive desktop and mobile interfaces
+Role-based authentication and sample demo profiles
+
+**Tech Stack:**
+
+Frontend: Next.js, React, TypeScript, Tailwind CSS
+Backend: Next.js Server Functions and APIs
+Database & Authentication: Supabase
+Hosting: Vercel
+
+Status: 🟡 Demo / MVP
+
 ### Personal Dashboard
 **Description :**
 On Progress
