@@ -29,10 +29,10 @@ A full-stack fashion E-Commerce webstie featuring product listings, admin dashbo
 🟡 Demo / MVP
 
 **Live Demo :**
-🔗 https://yeeny-fashion.vercel.app/
+🔗https://yeeny-v2.vercel.app
 
 **For More Details :**
-[YEENY README](yeeny-fashion/README.md)
+[YEENY Fashion](000-Yeeny_Fashion/README.md)
 
 ### SkillMap – Career Intelligence Platform
 
@@ -58,13 +58,8 @@ Hosting: Vercel
 
 Status: 🟡 Demo / MVP
 
-### Personal Dashboard
-**Description :**
-On Progress
+**Live Demo :**
+🔗https://talentbank-hackathon-yeeny.vercel.app/
 
-**Tech Stack :**
-- Frontend :  React, TypeScript, Next.js, Tailwind
-- Backend : Next.js API Routes
-- Databse : PostgreSQL
-- ORM : Prisma
-- Auth : Auth.js
+**For More Details :**
+[SkillMap](001-SkillMap/README.md)
